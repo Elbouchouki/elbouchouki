@@ -2,7 +2,7 @@
 
 I am Elbouchouki Ahmed a Full Stack Web Developer I Spend most of time coding outstanding projects or learning new technologies.
 
-## Contacts
+## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elbouchouki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elbouchouki-ahmed/) [![Mail Badge](https://img.shields.io/badge/-@elbouchouki.ahmed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed.elbouchouki/) [![Mail Badge](https://img.shields.io/badge/-Elbouchouki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elbouchoukigamer@gmail.com)
 
