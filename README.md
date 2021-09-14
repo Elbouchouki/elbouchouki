@@ -1,6 +1,6 @@
 ## Assalamu alaykum! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Elbouchouki Ahmed a Full Stack Web Developer I Spend most of time coding outstanding projects or learning new technologies.
+I am Elbouchouki Ahmed a Full Stack Web & Desktop Developer, I Spend most of time coding outstanding projects or learning new technologies.
 
 ## Contact
 
