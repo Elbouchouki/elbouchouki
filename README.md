@@ -6,7 +6,7 @@ I am Elbouchouki Ahmed a Full Stack Web & Desktop Developer, I Spend most of tim
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elbouchouki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elbouchouki-ahmed/) [![Mail Badge](https://img.shields.io/badge/-@elbouchouki.ahmed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed.elbouchouki/) [![Mail Badge](https://img.shields.io/badge/-Elbouchouki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elbouchoukigamer@gmail.com)
 
-## Top Technologies <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+## Top Technologies 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -23,4 +23,6 @@ I am Elbouchouki Ahmed a Full Stack Web & Desktop Developer, I Spend most of tim
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=TeX&layout=compact&theme=tokyonight)
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=TeX&layout=compact&theme=radical)
