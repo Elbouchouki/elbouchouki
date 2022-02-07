@@ -24,3 +24,5 @@ I am Elbouchouki Ahmed a Full Stack Web & Desktop Developer, I Spend most of tim
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=TeX&layout=compact&theme=radical) <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px>
+
+ ![Snake animation](https://github.com/elbouchouki/elbouchouki/blob/output/github-contribution-grid-snake.svg)
