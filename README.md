@@ -16,7 +16,9 @@
   /><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
   /><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
   /><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"
-  />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=TeX&layout=compact&theme=radical)
+  />
+  <img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=TeX&layout=compact&theme=radical"
+  />
 </div>
 <div><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"
   /><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"
