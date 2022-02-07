@@ -41,8 +41,11 @@
   /> <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
   />
   </div>
-    
+
   ##
-  <div>
-      ![Snake animation](https://github.com/elbouchouki/elbouchouki/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
+<div>
+
+  ![Snake animation](https://github.com/elbouchouki/elbouchouki/blob/output/github-contribution-grid-snake.svg)
+
+</div>
