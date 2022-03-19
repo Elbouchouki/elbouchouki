@@ -16,7 +16,7 @@
   /><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
   /><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"
   />
-  <img align="right" height="250" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=TeX&layout=compact&theme=radical"
+  <img align="right" height="250" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=python&hide=TeX&layout=compact&theme=radical"
   />
 </div>
 
