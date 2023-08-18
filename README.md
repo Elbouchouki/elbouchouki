@@ -1,16 +1,39 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=120&section=header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=120&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=3688ff&height=120&section=header">
+ <img alt="header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3688ff&height=120&section=header"/>
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=787b7f&duration=2000&pause=1000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elbouchouki+Ahmed;I'm+21+years+old;I'm+a+Software+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Elbouchouki&bg_color=0d1117&color=787b7f&line=787b7f&point=adffad&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Elbouchouki&bg_color=f6f8fa&color=3688ff&line=3688ff&point=adffad&area=true&hide_border=true">
+  <img alt="github readme activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Elbouchouki&bg_color=f6f8fa&color=3688ff&line=3688ff&point=adffad&area=true&hide_border=true">
+</picture>
 
-[![Elbouchouki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elbouchouki&bg_color=0d1117&color=787b7f&line=787b7f&point=adffad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elbouchouki&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=elbouchouki&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=elbouchouki&theme=flat&row=2&bg=f6f8fa&column=3&margin-w=15&margin-h=15">
+    <img alt="github profile trophy" src="https://github-profile-trophy.vercel.app/?username=elbouchouki&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  </picture>
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elbouchouki&show_icons=true&count_private=true&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117" alt="Elbouchouki github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=python&layout=compact&hide_border=true&title_color=787b7f&text_color=787b7f&bg_color=0d1117" />
+<div align="center">
+  
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elbouchouki&show_icons=true&count_private=true&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elbouchouki&show_icons=true&count_private=true&hide_border=true&theme=transparent">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elbouchouki&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Elbouchouki github stats" /> 
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=python&layout=compact&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=python&layout=compact&hide_border=true&theme=transparent">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbouchouki&hide=python&layout=compact&hide_border=true&theme=transparent" alt="Elbouchouki github stats" /> 
+  </picture>
+
 </div>
 
 
@@ -58,4 +81,8 @@
 
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=3688ff&height=120&section=footer">
+ <img alt="footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3688ff&height=120&section=footer"/>
+</picture>
